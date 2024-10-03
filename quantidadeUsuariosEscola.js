@@ -21,8 +21,8 @@ async function quantidadeUsuariosPorRede() {
     textoExplicativo.classList.add('graficos-container__texto');
     textoExplicativo.innerHTML = `
        
-           Você sabia que a nossa escola possui aproximadamente <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">1.950 alunos?</span>
- Aproximadamente <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">1.920 estudantes</span> estão conectados em alguma rede social e, em média, passam cerca de <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">4 horas</span> por dia nessas plataformas. Isso significa que uma grande parte dos alunos está ativa nas redes sociais.
+           Você sabia que a nossa escola possui aproximadamente <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">2.150 alunos?</span>
+ Aproximadamente <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">2.000 estudantes</span> estão conectados em alguma rede social e, em média, passam cerca de <span style="font-weight: bold; color: ${getCSS('--secondary-color')}">6 horas</span> por dia nessas plataformas. Isso significa que uma grande parte dos alunos está ativa nas redes sociais.
         <br><br>
         Abaixo, você pode ver o gráfico que mostra as redes sociais mais utilizadas entre nossos alunos.
     `;
